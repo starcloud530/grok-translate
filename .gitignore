@@ -1,0 +1,5 @@
+/models/language_detector.tflite
+__pycache__
+.env
+id_ed25519_new
+id_ed25519_new.pub

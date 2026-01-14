@@ -1,0 +1,1 @@
+https://storage.googleapis.com/mediapipe-models/language_detector/language_detector/float32/1/language_detector.tflite

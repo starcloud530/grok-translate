@@ -1,0 +1,350 @@
+{
+    "en": {
+        "lang_code": "en",
+        "lang": "English",
+        "region": "United Kingdom",
+        "enabled": true
+    },
+    "ar": {
+        "lang_code": "ar",
+        "lang": "Arabic",
+        "region": "Egypt",
+        "enabled": true
+    },
+    "ar_SA": {
+        "lang_code": "ar",
+        "lang": "Arabic",
+        "region": "Saudi Arabia",
+        "enabled": false
+    },
+    "bg": {
+        "lang_code": "bg",
+        "lang": "Bulgarian",
+        "region": "Bulgaria",
+        "enabled": true
+    },
+    "bn": {
+        "lang_code": "bn",
+        "lang": "Bengali",
+        "region": "India",
+        "enabled": true
+    },
+    "ca": {
+        "lang_code": "ca",
+        "lang": "Catalan",
+        "region": "Spain",
+        "enabled": true
+    },
+    "cs": {
+        "lang_code": "cs",
+        "lang": "Czech",
+        "region": "Czechia",
+        "enabled": true
+    },
+    "da": {
+        "lang_code": "da",
+        "lang": "Danish",
+        "region": "Denmark",
+        "enabled": true
+    },
+    "de": {
+        "lang_code": "de",
+        "lang": "German",
+        "region": "Germany",
+        "enabled": true
+    },
+    "el": {
+        "lang_code": "el",
+        "lang": "Greek",
+        "region": "Greece",
+        "enabled": true
+    },
+    "es": {
+        "lang_code": "es",
+        "lang": "Spanish",
+        "region": "Mexico",
+        "enabled": true
+    },
+    "et": {
+        "lang_code": "et",
+        "lang": "Estonian",
+        "region": "Estonia",
+        "enabled": true
+    },
+    "fa": {
+        "lang_code": "fa",
+        "lang": "Farsi",
+        "region": "Iran",
+        "enabled": true
+    },
+    "fi": {
+        "lang_code": "fi",
+        "lang": "Finnish",
+        "region": "Finland",
+        "enabled": true
+    },
+    "fil": {
+        "lang_code": "fil",
+        "lang": "Filipino",
+        "region": "Philippines",
+        "enabled": true
+    },
+    "fr": {
+        "lang_code": "fr",
+        "lang": "French",
+        "region": "Canada",
+        "enabled": true
+    },
+    "fr_FR": {
+        "lang_code": "fr",
+        "lang": "French",
+        "region": "France",
+        "enabled": false
+    },
+    "gu": {
+        "lang_code": "gu",
+        "lang": "Gujarati",
+        "region": "India",
+        "enabled": true
+    },
+    "he": {
+        "lang_code": "he",
+        "lang": "Hebrew",
+        "region": "Israel",
+        "enabled": true
+    },
+    "hi": {
+        "lang_code": "hi",
+        "lang": "Hindi",
+        "region": "India",
+        "enabled": true
+    },
+    "hr": {
+        "lang_code": "hr",
+        "lang": "Croatian",
+        "region": "Croatia",
+        "enabled": true
+    },
+    "hu": {
+        "lang_code": "hu",
+        "lang": "Hungarian",
+        "region": "Hungary",
+        "enabled": true
+    },
+    "id": {
+        "lang_code": "id",
+        "lang": "Indonesian",
+        "region": "Indonesia",
+        "enabled": true
+    },
+    "is": {
+        "lang_code": "is",
+        "lang": "Icelandic",
+        "region": "Iceland",
+        "enabled": true
+    },
+    "it": {
+        "lang_code": "it",
+        "lang": "Italian",
+        "region": "Italy",
+        "enabled": true
+    },
+    "in":{
+        "lang_code": "in",
+        "lang": "Indonesian",
+        "region": "Indonesia",
+        "enabled": true
+    },
+    "ja": {
+        "lang_code": "ja",
+        "lang": "Japanese",
+        "region": "Japan",
+        "enabled": true
+    },
+    "kn": {
+        "lang_code": "kn",
+        "lang": "Kannada",
+        "region": "India",
+        "enabled": true
+    },
+    "ko": {
+        "lang_code": "ko",
+        "lang": "Korean",
+        "region": "South Korea",
+        "enabled": true
+    },
+    "lt": {
+        "lang_code": "lt",
+        "lang": "Lithuanian",
+        "region": "Lithuania",
+        "enabled": true
+    },
+    "lv": {
+        "lang_code": "lv",
+        "lang": "Latvian",
+        "region": "Latvia",
+        "enabled": true
+    },
+    "ml": {
+        "lang_code": "ml",
+        "lang": "Malayalam",
+        "region": "India",
+        "enabled": true
+    },
+    "mr": {
+        "lang_code": "mr",
+        "lang": "Marathi",
+        "region": "India",
+        "enabled": true
+    },
+    "nl": {
+        "lang_code": "nl",
+        "lang": "Dutch",
+        "region": "Netherlands",
+        "enabled": true
+    },
+    "no": {
+        "lang_code": "no",
+        "lang": "Norwegian",
+        "region": "Norway",
+        "enabled": true
+    },
+    "pa": {
+        "lang_code": "pa",
+        "lang": "Punjabi",
+        "region": "India",
+        "enabled": true
+    },
+    "pl": {
+        "lang_code": "pl",
+        "lang": "Polish",
+        "region": "Poland",
+        "enabled": true
+    },
+    "pt_BR": {
+        "lang_code": "pt",
+        "lang": "Portuguese",
+        "region": "Brazil",
+        "enabled": true
+    },
+    "pt": {
+        "lang_code": "pt",
+        "lang": "Portuguese",
+        "region": "Portugal",
+        "enabled": true
+    },
+    "ro": {
+        "lang_code": "ro",
+        "lang": "Romanian",
+        "region": "Romania",
+        "enabled": true
+    },
+    "ru": {
+        "lang_code": "ru",
+        "lang": "Russian",
+        "region": "Russia",
+        "enabled": true
+    },
+    "sk": {
+        "lang_code": "sk",
+        "lang": "Slovak",
+        "region": "Slovakia",
+        "enabled": true
+    },
+    "sl": {
+        "lang_code": "sl",
+        "lang": "Slovenian",
+        "region": "Slovenia",
+        "enabled": true
+    },
+    "sr": {
+        "lang_code": "sr",
+        "lang": "Serbian",
+        "region": "Serbia",
+        "enabled": true
+    },
+    "sv": {
+        "lang_code": "sv",
+        "lang": "Swedish",
+        "region": "Sweden",
+        "enabled": true
+    },
+    "sw": {
+        "lang_code": "sw",
+        "lang": "Swahili",
+        "region": "Kenya",
+        "enabled": true
+    },
+    "sw_TZ": {
+        "lang_code": "sw",
+        "lang": "Swahili",
+        "region": "Tanzania",
+        "enabled": false
+    },
+    "ta": {
+        "lang_code": "ta",
+        "lang": "Tamil",
+        "region": "India",
+        "enabled": true
+    },
+    "te": {
+        "lang_code": "te",
+        "lang": "Telugu",
+        "region": "India",
+        "enabled": true
+    },
+    "th": {
+        "lang_code": "th",
+        "lang": "Thai",
+        "region": "Thailand",
+        "enabled": true
+    },
+    "tr": {
+        "lang_code": "tr",
+        "lang": "Turkish",
+        "region": "Turkey",
+        "enabled": true
+    },
+    "uk": {
+        "lang_code": "uk",
+        "lang": "Ukrainian",
+        "region": "Ukraine",
+        "enabled": true
+    },
+    "ur": {
+        "lang_code": "ur",
+        "lang": "Urdu",
+        "region": "Pakistan",
+        "enabled": true
+    },
+    "vi": {
+        "lang_code": "vi",
+        "lang": "Vietnamese",
+        "region": "Vietnam",
+        "enabled": true
+    },
+    "zh": {
+        "lang_code": "zh",
+        "lang": "Mandarin",
+        "region": "China",
+        "enabled": true
+    },
+    "zh-tw": {
+        "lang_code": "zh",
+        "lang": "Mandarin",
+        "region": "Taiwan",
+        "enabled": true
+    },
+    "zu": {
+        "lang_code": "zu",
+        "lang": "Zulu",
+        "region": "South Africa",
+        "enabled": true
+    },
+    "nb": {
+        "lang_code": "nb",
+        "lang": "Norwegian Bokmål",
+        "region": "Norway",
+        "enabled": true
+    }
+}
