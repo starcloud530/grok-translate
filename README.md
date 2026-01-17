@@ -1,6 +1,6 @@
 # Grok-4.1 翻译服务
 
-一个基于 Grok-4.1 模型的高性能翻译服务，提供与 llm_translate 项目(https://git.costnovel.com/ai/llm_translate:dev)完全兼容的 API 接口，支持单条翻译和批量翻译功能.
+一个基于 Grok-4.1 模型的高性能翻译服务，支持单条翻译和批量翻译功能.
 
 ## 功能特性
 
